@@ -1,0 +1,22 @@
+.box{
+    color: aliceblue;
+}
+.fact{
+    background: #016295;
+}
+.inf{
+    background: #e6125d;
+}
+.comu{
+    background: #fd7e14;
+}
+.cloud{
+    background: #009900;
+}
+.tel{
+    background: #333349;
+}
+.img{
+    width: auto;
+    height: 200px;
+}
