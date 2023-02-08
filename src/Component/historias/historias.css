@@ -1,0 +1,15 @@
+.img0{
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.img1{
+    width: 100%;
+            transition: 0.5s all ease-in-out;
+}
+
+.img1:hover{
+    transform: scale(1.5);
+}
